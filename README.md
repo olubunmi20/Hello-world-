@@ -1,6 +1,6 @@
 # Hello-world-
 my first repository
-My name is Oluwabunmi. and this is my first project on Github
+My name is Oluwabunmi. and this is my (first project on Github)
 
 
 
